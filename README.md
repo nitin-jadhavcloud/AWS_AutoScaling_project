@@ -117,11 +117,9 @@ This project demonstrates setting up AWS EC2 Auto Scaling using Launch Templates
 
 
 
-## Screenshot 
-
-![Launch Template ](./Screenshot/AutoScalingGroup.png)
+##
 
 =======
 # AWS_AutoScaling_project
 AWS_AutoScaling_project
->>>>>>> 446feda67879cbc206120d9342e1997866e3fee5
+
