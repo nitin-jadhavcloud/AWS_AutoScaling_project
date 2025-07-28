@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📘 AWS Auto Scaling Test Project
 
 This project demonstrates setting up AWS EC2 Auto Scaling using Launch Templates, Target Groups, and an Application Load Balancer (ALB). It includes a dynamic scaling policy and integrates with ALB for load distribution.
