@@ -3,6 +3,24 @@
 
 This project demonstrates setting up AWS EC2 Auto Scaling using Launch Templates, Target Groups, and an Application Load Balancer (ALB). It includes a dynamic scaling policy and integrates with ALB for load distribution.
 
+# 🎯 Why I Built This Project
+
+As an aspiring **Cloud Support Engineer / AWS DevOps Engineer**, I wanted to simulate a real-world infrastructure scenario. This project helps demonstrate:
+
+- Auto scaling web applications based on CPU usage
+- Using launch templates for consistent instance deployment
+- Load balancing EC2 instances using ALB
+- Dynamic scale-in and scale-out policies
+- Monitoring using CloudWatch and ASG activity history
+
+## 🛠️ Tools Used
+
+- **AWS Console**
+- **Auto Scaling Group**
+- **EC2 Instances**
+- **Target Group + ALB**
+- **Launch Template**
+- **CloudWatch Metrics**
 ---
 
 ## 🟨 Step 1: Create Launch Template
@@ -113,13 +131,5 @@ This project demonstrates setting up AWS EC2 Auto Scaling using Launch Templates
 
 ---
 
-## 🗂️ Folder Structure (Local)
 
-
-
-##
-
-=======
-# AWS_AutoScaling_project
-AWS_AutoScaling_project
 
